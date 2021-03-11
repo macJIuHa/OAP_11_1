@@ -4,3 +4,6 @@
 [submodule "ArtemTellAbout"]
 	path = ArtemTellAbout
 	url = https://github.com/QWertyIX/study_oap_program1
+[submodule "MishaTellAbout"]
+	path = MishaTellAbout
+	url = https://github.com/God-Emperor-of-Mankind/ImperiumOfMankind
