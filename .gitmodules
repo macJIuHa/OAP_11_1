@@ -1,3 +1,6 @@
 [submodule "GlebTellAbout"]
 	path = GlebTellAbout
 	url = https://github.com/qXOMAp/OAP
+[submodule "ArtemTellAbout"]
+	path = ArtemTellAbout
+	url = https://github.com/QWertyIX/study_oap_program1
